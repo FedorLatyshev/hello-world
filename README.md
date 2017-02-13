@@ -1,2 +1,2 @@
 # hello-world
-check my git skills
+be aware of changes to follow
